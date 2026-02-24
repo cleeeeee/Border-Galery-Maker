@@ -62,6 +62,10 @@ Exemple :
 
 Pour plus de détails, consultez le [Guide Utilisateur](docs/utilisation.md).
 
+## Aperçu
+
+![Script Preview](Assets/code.png)
+
 ## Configuration
 
 La taille de la bordure est configurée directement dans le script via la variable `BORDER_PCT`.
